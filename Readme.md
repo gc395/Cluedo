@@ -1,7 +1,7 @@
 
 # Cluedo
 
-This project is a Python-based simulation of the classic board game "Cluedo" (also known as "Clue" in North America), where players deduce the details of a murder: the perpetrator, the weapon, and the location.
+This project is a Python-based simulation of the classic board game "Cluedo", where players deduce the details of a murder: the perpetrator, the weapon, and the location.
 
 ## Features
 
